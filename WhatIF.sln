@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatIF.CSharp", "WhatIF.CSharp.csproj", "{A1748D1E-CB26-137A-21AE-162ED306832A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1748D1E-CB26-137A-21AE-162ED306832A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1748D1E-CB26-137A-21AE-162ED306832A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1748D1E-CB26-137A-21AE-162ED306832A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1748D1E-CB26-137A-21AE-162ED306832A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
